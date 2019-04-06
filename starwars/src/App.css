@@ -2,7 +2,22 @@
   text-align: center;
 }
 .Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  color: #ffffff;
+  text-shadow: 1px 1px 5px rgb(221, 15, 15);
 }
 /* write your parent styles in here for your App.js */
+
+.jase{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: rgba(255, 0, 0, 0.582);
+  width: 90%;
+  border-radius: 16%;
+}
+.jase p{
+  font-size: 16px;
+}
+
+
